@@ -29,7 +29,7 @@ The main objectives of this project were to:
 
 | Tool | Purpose |
 |---|---|
-| PostgreSQL | Database and SQL analysis || Data cleaning, transformation and analysis |
+| PostgreSQL | Database and SQL analysis , Data cleaning, transformation and analysis |
 | Power BI | Dashboard and data visualization |
 | DAX | Power BI measures and calculations |
 | Git & GitHub | Version control and project documentation |
