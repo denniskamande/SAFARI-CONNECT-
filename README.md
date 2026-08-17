@@ -36,6 +36,9 @@ The main objectives of this project were to:
 
 ---
 
+![image alt](https://github.com/denniskamande/SAFARI-CONNECT-/blob/cba340644c48948fa701c4ad77ae3656e9014fff/1.png)
+![image alt](https://github.com/denniskamande/SAFARI-CONNECT-/blob/cba340644c48948fa701c4ad77ae3656e9014fff/2.png)
+
 # 🗂️ Project Workflow
 ```text
 The project follows this general workflow:
@@ -55,3 +58,5 @@ Power BI
 Interactive Dashboard
        ↓
 Business Insights & Recommendations
+
+
