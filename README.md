@@ -38,7 +38,7 @@ The main objectives of this project were to:
 ---
 
 # 🗂️ Project Workflow
-
+```text
 The project follows this general workflow:
 
 Raw Booking Data
